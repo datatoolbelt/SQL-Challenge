@@ -1,6 +1,6 @@
 #  Case Study #1 - Danny's Diner :stew:
 
-<img src="https://github.com/awasthishubhika/8-Week-SQL-Challenge/assets/83754715/1a08c033-54b4-4d7f-bb9e-d05863756a13" width="500" height="500" />
+<img src="https://github.com/datatoolbelt/8-Week-SQL-Challenge/assets/161499632/1ccf9260-7ee0-47b9-9b7c-80b7442fe06c" width="500" height="500" />
 
 ### Case Overview
 * Danny, a lover of Japanese cuisine, opened a restaurant named Danny's Diner in 2021, focusing on sushi, curry, and ramen.
@@ -14,7 +14,7 @@
     - `members`
 * ERD or Entity Relationship Diagram is as below:
 
-<img src="https://github.com/awasthishubhika/8-Week-SQL-Challenge/assets/83754715/a66f169f-d43a-4a57-9ce7-798c7bdca1f9" width="600" height="300" />
+<img src="https://github.com/datatoolbelt/8-Week-SQL-Challenge/assets/161499632/c8201050-1294-46c2-ac2a-3cac156a2724" width="600" height="300" />
 
 ### Metadata
 
