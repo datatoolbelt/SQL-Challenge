@@ -1,0 +1,82 @@
+#### 1. Pizza Metrics
+
+1. **How many pizzas were ordered?**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+2. **How many unique customer orders were made?**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+3. **How many successful orders were delivered by each runner?**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+4. **How many of each type of pizza was delivered?**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+5. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+6. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+7. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+8. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+9. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+10. **question**
+```sql
+create database dbname;
+```
+*Query Result:*
+
+---
+
+## FIN
