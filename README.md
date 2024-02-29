@@ -11,7 +11,7 @@ From querying databases to deriving actionable insights, these challenges showca
 Ready to dive in? Simply click on the links below to navigate through each case study:
 
 ## Overview :bookmark:
-- 🍲 [Case Study #1 - Danny's Diner]([link](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/7a569fb9b845955846acc07da121e88a5048872f/Case%20Study%20%231%20-%20Danny's%20Diner/solution.md))  
+- 🍲 [Case Study #1 - Danny's Diner](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/7a569fb9b845955846acc07da121e88a5048872f/Case%20Study%20%231%20-%20Danny's%20Diner/solution.md) 
 - 🍕 [Case Study #2 - Pizza Runner](link)  
 - 🍽️ [Case Study #3 - Foodie-Fi](link)  
 - 🏦 [Case Study #4 - Data Bank](link)  
