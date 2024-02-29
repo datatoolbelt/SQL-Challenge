@@ -1,9 +1,11 @@
 #  Case Study #2 - Pizza Runner 🍕
 
-<img src="link" width="500" height="500" />
+<img src="https://github.com/datatoolbelt/8-Week-SQL-Challenge/assets/161499632/2e68c725-a992-4c21-8760-cfa216edb304" width="500" height="500" />
 
 ### Case Overview
-* 3 points detailing what the case is
+* Danny is *Uberizing* his pizza delivery
+* His idea is recruiting "runners" on their run through an app to deliver pizza
+* 
 
 #### Details of Data
 * what data is provided namely,
@@ -12,7 +14,11 @@
     - `table3`
 * ERD or Entity Relationship Diagram is as below:
 
-<img src="link" width="600" height="300" />
+<img src="https://github.com/datatoolbelt/8-Week-SQL-Challenge/assets/161499632/d21d2817-084f-4a54-a230-b799b945b810" width="600" height="300" />
+
+
+
+
 
 ### Metadata
 
