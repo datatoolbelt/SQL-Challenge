@@ -116,7 +116,7 @@ WHERE pickup_time = 'null';
 -- 2. `cancellation`
 -- fill all uncancelled orders as 'Completed'
 UPDATE runner_orders
-SET cancellation = 'Completed'
+SET cancellation = 'No'
 WHERE cancellation IS NULL OR cancellation IN ('','null');
 
 -- 3. `distance` & `duration`
