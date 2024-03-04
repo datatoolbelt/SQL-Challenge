@@ -154,4 +154,4 @@ DROP COLUMN duration;
 As the data is now clean enough to work. I will move into the first set of case questions 
 
 ## Next Step here
-[1. Pizza Metrics](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/8540424042c50e5e7e365402c4f3d7bcc2875ce0/Case%20Study%20%232%20-%20Pizza%20Runner%20/1.%20Pizza%20Metrics.md)
+[1. Pizza Metrics](link)
