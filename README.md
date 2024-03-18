@@ -12,7 +12,7 @@ Ready to dive in? Simply click on the links below to navigate through each case 
 
 ## Overview :bookmark:
 - 🍲 [Case Study #1 - Danny's Diner](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/7a569fb9b845955846acc07da121e88a5048872f/Case%20Study%20%231%20-%20Danny's%20Diner/solution.md) 
-- 🍕 [Case Study #2 - Pizza Runner](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/96dbb3e726ce56754d23a205e54f54c80dce8c90/Case%20Study%20%232%20-%20Pizza%20Runner%20/solution.md)  
+- 🍕 [Case Study #2 - Pizza Runner](https://github.com/datatoolbelt/8-Week-SQL-Challenge/blob/0488d9ab2b544ac445e00b8e20292e5201133112/Case%20Study%20%232%20-%20Pizza%20Runner%20/solution.md)
 - 🍽️ [Case Study #3 - Foodie-Fi](link)  
 - 🏦 [Case Study #4 - Data Bank](link)  
 - 🛒 [Case Study #5 - Data Mart](link)  
